@@ -1,0 +1,19 @@
+{
+  "claudePath": "",
+  "projectDir": "f:\\AI\\auto-code",
+  "taskFile": "task.md",
+  "windowHours": 5,
+  "bufferMinutes": 2,
+  "model": "",
+  "permissionMode": "bypassPermissions",
+  "extraArgs": ["--dangerously-skip-permissions"],
+  "runAtStart": true,
+  "heartbeatMinutes": 30,
+  "emptyTaskRecheckMinutes": 10,
+  "mode": "window",
+  "schedule": {
+    "runAt": "",
+    "repeat": "none",
+    "everyNHours": 5
+  }
+}
